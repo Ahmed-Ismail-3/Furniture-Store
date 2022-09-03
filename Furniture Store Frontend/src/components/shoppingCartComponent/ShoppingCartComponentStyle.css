@@ -1,0 +1,21 @@
+.white {
+  color: white;
+}
+
+.quantity-icons {
+  text-align: center;
+}
+
+.shopping-cart-cols {
+  gap: 35px;
+}
+
+.trash-icon {
+  cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+  .quantity-icons input {
+    width: 50%;
+  }
+}

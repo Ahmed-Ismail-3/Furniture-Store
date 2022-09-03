@@ -1,0 +1,31 @@
+footer {
+  background: var(--secondary-color);
+  color: #fff;
+  /* position: fixed;
+  bottom: 0px; */
+}
+
+footer h5 {
+  text-transform: uppercase;
+}
+
+footer p {
+  margin-bottom: 0px !important;
+}
+
+footer .icon svg {
+  font-size: 23px;
+}
+
+footer h6 {
+  font-size: 15px;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+.text-hover:hover{
+  color:  var(--main-color);
+}
